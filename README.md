@@ -76,7 +76,9 @@ The UI needs further optimization to manage rerendering of updated data.
 ## Screen Shots
 
 ### Homepage
+<img width="1440" alt="Homepage" src="https://github.com/user-attachments/assets/85bf4106-76b0-46b3-80a5-de7fa1535bea">
 
 
 ### Dashbaord
+<img width="1440" alt="Dashboard" src="https://github.com/user-attachments/assets/4e5e7f6b-0aa0-456b-af13-ff41f310a2b8">
 
