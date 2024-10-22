@@ -25,3 +25,11 @@ body {
     text-wrap: balance;
   }
 }
+
+
+.bg-primary {
+  @apply bg-slate-800;
+}
+.text-accent {
+  @apply text-sky-400;
+}
